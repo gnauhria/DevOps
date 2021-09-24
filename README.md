@@ -20,7 +20,7 @@ OS: Linux</br>
 Language: Python (2.7.18)</br>
 
 Testing Results:
-Command: **python script.py test_files**</br>
+Command: **python scan_unique_strings.py test_files**</br>
 Test Dir: **DevOps/test_files**</br>
 
 Test Output:</br>
