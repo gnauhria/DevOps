@@ -19,11 +19,11 @@ Script Development Platform:</br>
 OS: Linux</br>
 Language: Python (2.7.18)</br>
 
-Testing Results:
-Command: **python scan_unique_strings.py test_files**</br>
-Test Dir: **DevOps/test_files**</br>
+**Testing Results:**</br>
+**Command:** </br> **python scan_unique_strings.py test_files**</br>
+**Test Dir:** </br> **DevOps/test_files**</br>
 
-Test Output:</br>
+**Test Output:**</br>
 some 4</br>
 more 4</br>
 test 3</br>
