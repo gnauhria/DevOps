@@ -28,6 +28,6 @@ for file in file_names:
     for word in words:
         unique.append(word)
 
-#Print the mosst common strins first along with number of occurences
+#Print the most common strings first along with number of occurences
 for word, count in Counter(unique).most_common():
     print "{} {}".format(word, count)
